@@ -1,4 +1,4 @@
-### application.bat - 201x - votre nom ###
+### application.bat - 201x - Bouzerrara ###
 echo "Copyright company - 201x"
-echo "Build : 10:00"
-echo "Version 1.1"
+echo "Build : 11H00"
+echo "Version 2"
